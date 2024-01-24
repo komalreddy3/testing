@@ -1,4 +1,6 @@
 feat 1
 feat 2
 feat 3
-var p=100
+
+var p=40
+
